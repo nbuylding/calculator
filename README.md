@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 
 ## Table of contents
 
@@ -19,7 +19,7 @@ For this project, I had to build a functional calculator using HTML, CSS, and Ja
 
 ### Links
 
-- Live Site URL: [live site URL here]()
+- Live Site URL: [live site URL here](https://nbuylding.github.io/calculator/)
 
 ## My process
 
@@ -28,6 +28,7 @@ For this project, I had to build a functional calculator using HTML, CSS, and Ja
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS Grid
 - Javascript
 
 ### What I learned
